@@ -1,3 +1,6 @@
+# Fork
+Personal use atm. All info below is from the original branch.
+
 # Shin Pokémon Red, Blue, Green, Red-JP, & Blue-JP
 
 Version 1.24.6
