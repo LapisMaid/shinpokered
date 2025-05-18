@@ -142,8 +142,34 @@ SpecialTrainerMoves:
 	;arcanine - fire blast, bite, leer, takedown
 	db 4,1,FIRE_BLAST
 	db 0
+
+	db GIOVANNI,$1 ;Rocket Hideout
+	;nidorina lv25 (changed from Onix) - tail whip, body slam, bubblebeam, poison sting
+	db 1,1,BODY_SLAM
+	db 1,2,BUBBLEBEAM
+	;rhyhorn lv24 - horn attack
+	;kangaskhan lv29 - comet punch, counter, bite
+	db 3,2,COUNTER
 	
-	db GIOVANNI,$3
+	db GIOVANNI,$2 ;Silph Co
+	;nidorino lv37 - ice beam, body slam, focus energy, toxic
+	db 1,1,ICE_BEAM
+	db 1,2,DOUBLE_EDGE
+	db 1,4,TOXIC
+	;kangaskhan lv35 - mega punch, tail whip, counter, mega kick
+	db 2,1,MEGA_PUNCH
+	db 2,2,MEGA_KICK
+	db 2,3,COUNTER
+	;rhyhorn lv37 - rock slide, body slam, tail whip, stomp
+	db 3,1,ROCK_SLIDE
+	db 3,4,BODY_SLAM
+	;nidoqueen lv 41 - thunder, seismic toss, tail whip, body slam
+	db 4,1,THUNDER
+	db 4,2,SEISMIC_TOSS
+	db 4,3,TAIL_WHIP
+	db 4,4,BODY_SLAM
+	
+	db GIOVANNI,$3 ;Gym Leader
 	;kangaskhan - earthquake, hyper beam, fissure, dizzy punch
 	db 1,1,EARTHQUAKE
 	db 1,2,HYPER_BEAM
