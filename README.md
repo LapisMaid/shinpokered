@@ -1,5 +1,15 @@
+# To-Do
+[] Copy over Yellow learnsets
+[] Alter trade evolutions to be somewhere mid-late 30s.
+[] Make the Bike music not persist constantly.
+[] Enemy moveset changes (mostly bosses; maybe some Victory Road trainers and other misc instances?)
+[] Go through and plan out availability tweaks
+[] Update Power Plant tileset
+[] Unique tileset for Victory Road?
+[] Implement female protag with edited Green sprites by Molly
+
 # Fork
-Personal use atm. All info below is from the original branch.
+Personal use atm. All info below is from the original branch. All info above is basically a to-do list for myself.
 
 # Shin Pokémon Red, Blue, Green, Red-JP, & Blue-JP
 
