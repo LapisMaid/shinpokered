@@ -150,6 +150,7 @@ SpecialTrainerMoves:
 	;rhyhorn lv24 - horn attack
 	;kangaskhan lv29 - comet punch, counter, bite
 	db 3,2,COUNTER
+	db 0
 	
 	db GIOVANNI,$2 ;Silph Co
 	;nidorino lv37 - ice beam, body slam, focus energy, toxic
@@ -168,6 +169,7 @@ SpecialTrainerMoves:
 	db 4,2,SEISMIC_TOSS
 	db 4,3,TAIL_WHIP
 	db 4,4,BODY_SLAM
+	db 0
 	
 	db GIOVANNI,$3 ;Gym Leader
 	;kangaskhan - earthquake, hyper beam, fissure, dizzy punch
